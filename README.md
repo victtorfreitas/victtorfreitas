@@ -4,7 +4,7 @@
 Um desenvolvedor Java Pleno apaixonado pelo Spring 💚
 Estou em busca da minha primeira certificação Java. 
 
- - ⭐ Estudando Arquitetura de Micro serviços
+ - ⭐ Estudando Kotlin
  -  🔥 Trabalhando no Sistema de Gestão Integrada das Eleições TRE-TO
  - 🎵 E ouvindo  If I Ain't Got You - Alicia Keys
 
