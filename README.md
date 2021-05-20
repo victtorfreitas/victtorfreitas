@@ -1,7 +1,7 @@
 
 ## *Oi, eu sou o Victtor* ✌️
 
-Um desenvolvedor Java Pleno, apaixonado pelo Spring 💚
+Um Engenheiro de Software Pleno, apaixonado pelo Spring 💚
  em busca da minha primeira certificação Java. 
 
  - ⭐ Estudando AWS
