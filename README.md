@@ -4,8 +4,8 @@
 Um desenvolvedor Java Pleno, apaixonado pelo Spring 💚
  em busca da minha primeira certificação Java. 
 
- - ⭐ Estudando Kotlin
- -  🔥 Trabalhando no Sistema de Gestão Integrada das Eleições TRE-TO
+ - ⭐ Estudando AWS
+ -  🔥 Trabalhando no projeto Open Banking na Tribanco
  - 🎵 E ouvindo  Barões da pisadinha
 
 Gosto de me aventurar em novas tecnologias e linguagens, estudei Python e .Net por diversão e acabei trabalhando profissionalmente com Python por um curto período de tempo. 
