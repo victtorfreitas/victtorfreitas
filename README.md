@@ -1,15 +1,15 @@
 
 ## *Oi, eu sou o Victtor* ✌️
 
-Um Engenheiro de Software Pleno, apaixonado pelo Spring 💚
+Um Engenheiro de Software Sênior, apaixonado pelo Spring 💚
  em busca da minha primeira certificação Java. 
 
  - ⭐ Estudando AWS
- -  🔥 Trabalhando no projeto Open Banking na Tribanco
- - 🎵 E ouvindo  Barões da pisadinha
+ -  🔥 Trabalhando no projeto Pix no Banco BV
+ - 🎵 E ouvindo João Gomes
 
 Gosto de me aventurar em novas tecnologias e linguagens, estudei Python e .Net por diversão e acabei trabalhando profissionalmente com Python por um curto período de tempo. 
-***Hoje meu principal objetivo é me especializar em Java e conhecer a fundo o poder do Spring Microservices.***
+***Hoje meu principal objetivo é me especializar em Java e conhecer a fundo o poder da AWS.***
 
 ## Entre em contato
 
