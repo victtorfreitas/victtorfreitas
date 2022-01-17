@@ -1,20 +1,20 @@
-## *Hi, I'm Victtor* ✌️
-<a href="/docs/README_PT-BR.md">Português Brasileiro</a>
-</br>
+
+## *Oi, eu sou o Victtor* ✌️
 ![](https://komarev.com/ghpvc/?username=victtorfreitas&style=flat-square&color=yellow)
 <img align="right" alt="Rafa-pic" height="150" src="https://user-images.githubusercontent.com/28950541/147153996-6b8825aa-289b-4377-9c8d-9396c670a5ba.png?width=600&height=600" data-canonical-src="https://user-images.githubusercontent.com/28950541/147153996-6b8825aa-289b-4377-9c8d-9396c670a5ba.png?width=473&height=473" style="max-width: 100%;">
 
-I'm a Software Engineer in love with Spring 💚. On my way to first Java certification.
 
-- ⭐ Studenting Google Cloud
-- 🔥 Working at project Pix from Bank BV
-- 🎵 And listen João Gomes
+Um Engenheiro de Software Sênior, apaixonado pelo Spring 💚
+em busca da minha primeira certificação Java.
 
-I like the experiences in new technologies and languages,
-studented Python and .Net for hobby and worked with python for small time.
-Today my main objetive is specialize in Java and get to know the power of cloud.
+- ⭐ Estudando Google Cloud
+-  🔥 Trabalhando no projeto Pix no Banco BV
+- 🎵 E ouvindo João Gomes
 
-## Contact
+Gosto de me aventurar em novas tecnologias e linguagens, estudei Python e .Net por diversão e acabei trabalhando profissionalmente com Python por um curto período de tempo.
+***Hoje meu principal objetivo é me especializar em Java e conhecer a fundo o poder do Cloud.***
+
+## Entre em contato
 
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/victtor-freitas-programador/" target="blank">
@@ -28,7 +28,7 @@ Today my main objetive is specialize in Java and get to know the power of cloud.
   </a>
 </div>
 
-## Technologies
+## Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="victtor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -48,4 +48,3 @@ Today my main objetive is specialize in Java and get to know the power of cloud.
 ##
 
 ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
- 
