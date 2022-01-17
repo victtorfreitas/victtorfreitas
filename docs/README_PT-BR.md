@@ -48,3 +48,5 @@ Gosto de me aventurar em novas tecnologias e linguagens, estudei Python e .Net p
 ##
 
 ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
+
+![Victtor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victtorfreitas&show_icons=true&theme=radical)
