@@ -12,7 +12,7 @@ I'm a Software Engineer in love with Spring 💚. On my way to first Java certif
 
 I like the experiences in new technologies and languages,
 studented Python and .Net for hobby and worked with python for small time.
-Today my main objetive is specialize in Java and get to know the power of cloud.
+**Today my main objetive is specialize in Java and get to know the power of cloud.**
 
 ## Contact
 
